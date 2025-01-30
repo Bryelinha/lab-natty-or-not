@@ -1,4 +1,6 @@
 # **O Impacto Revolucionário das IAs Generativas**  
+[Baixar o arquivo](./ebook).
+
 
 ## 📒 **Descrição**  
 Este projeto explora o impacto transformador das IAs generativas em nosso dia a dia, abordando como essas tecnologias estão moldando diferentes setores e quais promessas futuras elas trazem. Desde a automação de tarefas criativas até a revolução na comunicação e no entretenimento, este documento apresenta um panorama detalhado sobre o tema.  
